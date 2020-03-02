@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: LoCO-AUV
 
 # Name of the author
-author: Amit Merchant
+author: Interactive Robotics and Vision Lab
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: A Low-Cost Open-Source AUV
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -20,39 +20,39 @@ avatar: /images/reverie.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email: amit.d.merchant@gmail.com
-  facebook:
-  flickr:
-  github: amitmerchant1990/reverie
-  instagram:
-  linkedin: 
-  pinterest:
-  rss: rss
-  twitter: amit_merchant
-  stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  playconsole:
+#  dribbble:
+#  email: amit.d.merchant@gmail.com
+#  facebook:
+#  flickr:
+  github: loco-auv
+#  instagram:
+#  linkedin: 
+#  pinterest:
+#  rss: rss
+  twitter: irvlab
+#  stackoverflow: 
+#  youtube: # channel/<your_long_string> or user/<user-name>
+#  googleplus: # anything in your profile username that comes after plus.google.com/
+#  playconsole:
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+#disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
+#google_analytics: UA-43339302-11
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
+#url: http://www.amitmerchant.com/reverie
+#enforce_ssl: https://www.amitmerchant.com/reverie
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/reverie"
+#baseurl: "/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
