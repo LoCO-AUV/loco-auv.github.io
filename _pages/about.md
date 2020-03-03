@@ -4,26 +4,18 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+![](https://github.com/loco-auv/loco-auv-github.io/images/loco-cad.png)
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+LoCO AUV is a **Lo**w-**C**ost **O**pen-Source **A**utonomous **U**underwater **V**ehicle intended for use by school groups and research groups with low levels of funding and personel. LoCO can be assembled with little technical knowledge from approximately $4000 USD worth of off-the-shelf and custom parts, and can be operated and deployed by very small teams. 
 
-## Features
+## Current Features
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+- Tethered and tetherless operation.
+- Dual cameras for computer vision guidance.
+- NVIDIA Jetson TX2 processor for deep learning inference.
+- Basic state estimation.
+- Human-Robot Interaction capabilities such as diver following, gesture detection, and robot communication via motion.
+- A Gazebo-based simulator for algorithm prototpying. 
+- Autonomous human-in-the-loop control system for paired human-robot tasks.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+LoCO AUV is currently awaiting University clearence for release under a permissive open-source license.
