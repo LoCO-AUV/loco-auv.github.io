@@ -1142,3 +1142,15 @@ Modules - reusable parts of our design
 //@import "highlights";
 @import "darcula";
 @import "svg-icons";
+
+.team-avatar-left {
+  float: left;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  margin-right: 15px;
+
+  img {
+    border-radius: 50%;
+  }
+}
