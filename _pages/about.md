@@ -18,4 +18,4 @@ LoCO AUV is a **Lo**w-**C**ost **O**pen-Source **A**utonomous **U**underwater **
 - A Gazebo-based simulator for algorithm prototpying. 
 - Autonomous human-in-the-loop control system for paired human-robot tasks.
 
-LoCO AUV is currently awaiting University clearence for release under a permissive open-source license.
+LoCO AUV is currently being tested and documented for a full version 1.0 release, and awaiting University clearence for release under a permissive open-source license.
