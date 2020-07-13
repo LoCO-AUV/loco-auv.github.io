@@ -6,7 +6,7 @@ permalink: /about/
 
 ![](https://raw.githubusercontent.com/LoCO-AUV/loco-auv.github.io/master/images/loco_tech_details.png)
 
-LoCO AUV is a **Lo**w-**C**ost **O**pen-Source **A**utonomous **U**underwater **V**ehicle intended for use by school groups and research groups with low levels of funding and personel. LoCO can be assembled with little technical knowledge from approximately $4000 USD worth of off-the-shelf and custom parts, and can be operated and deployed by very small teams. 
+LoCO AUV is a **Lo**w-**C**ost **O**pen-Source **A**utonomous **U**nderwater **V**ehicle intended for use by school groups and research groups with low levels of funding and personel. LoCO can be assembled with little technical knowledge from approximately $4000 USD worth of off-the-shelf and custom parts, and can be operated and deployed by very small teams. 
 
 ## Current Features
 
